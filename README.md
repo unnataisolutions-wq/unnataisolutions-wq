@@ -6,6 +6,7 @@
 [![Enterprise Portal](https://img.shields.io/badge/Enterprise%20Portal-unnataisolutions.com-0284c7?style=for-the-badge&logo=googlechrome)](https://unnataisolutions.com)
 [![Protocol Spec](https://img.shields.io/badge/RFC--0001-A2AClear%20Standard-6366f1?style=for-the-badge&logo=fastapi)](https://unnataisolutions.com/a2aclear)
 [![Commercial Licenses](https://img.shields.io/badge/Commercial%20Licenses-Turnkey%20Whitelabel-059669?style=for-the-badge&logo=github)](https://unnataisolutions.com/software-license)
+[![Agency ROI Calculator](https://img.shields.io/badge/Agency%20ROI%20Calculator-Whitelabel%20Arbitrage-38bdf8?style=for-the-badge&logo=googleforms)](https://unnataisolutions.com/software-license.html)
 [![DPIIT Recognized](https://img.shields.io/badge/Govt%20Recognized-DPIIT%20Startup%20India-7c3aed?style=for-the-badge&logo=shield)](https://unnataisolutions.com)
 
 <br/>
